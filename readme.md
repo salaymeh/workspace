@@ -12,6 +12,10 @@ This book has been chosen for its practical approach to teaching Python. It cove
 
 This is a book that I have been wanting to go through, and now I have the opportunity to do so. Over the next few weeks or days, until I complete the book, I will dedicate my time to going through its contents and finishing it.
 
+### update
+
+Going through the book, skimming, I realized it was too simple and boring, great for Python beginners but not necessary for me.
+
 # Python - Django for Beginners/Professionals/APIs by William S. Vincent
 I have selected these books as my resources to learn Django.
 
