@@ -11,6 +11,9 @@ __pycache__/
 dist/
 build/
 *.egg
+*/static
+/static
+/staticfiles
 
 # Ignore .env files
 .env
