@@ -21,6 +21,11 @@ I have selected these books as my resources to learn Django.
 
 # Vue.js - Udemy/Vue Docs
 Chat GPT recommended Vue Mastery, but I have decided to use the Udemy course that I already have and the Vue Docs.
+# Tailwind Css
+https://scrimba.com/learn/tailwind
+
+i tried creating the company site and manged to build it with html/css but ran into issues with tailwind and making it mobile responsve found this site that teaches tailwind so hopefuly it works out!
+
 
 # SQL - Mode's SQL School
 ```python
@@ -63,4 +68,4 @@ This is the roadmap Chat GPT provided for me to build secure SaaS applications u
 One thing I would like to add to this journey is Docker.
 
 
-p.s this was corrected by chat-gpt, im lazy when it comes to writing/proof reading 
+p.s this was corrected by chat-gpt, im lazy when it comes to writing/proof reading
